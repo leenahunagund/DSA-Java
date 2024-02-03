@@ -13,5 +13,8 @@ public class collections {
         System.out.println(v.elementAt(0));
         System.out.println(h.get(1));
     }
-    
 }
+/*
+1
+1
+geeks*/
