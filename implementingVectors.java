@@ -16,3 +16,12 @@ public class implementingVectors{
         System.out.println(v);
     }
 }
+/*
+[0, 1, 2, 3, 4]
+[0, 1, 2, 4]
+0 
+1
+2
+4
+[0, 1, 2, 4, 12]
+[0, 1, 4, 12]*/
